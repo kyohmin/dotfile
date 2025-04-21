@@ -119,7 +119,7 @@ format = '[[ $symbol $branch ](fg:text bg:surface0)]($style)'
 
 [git_status]
 style = "bg:blue"
-format = '[[($all_status$ahead_behind )](fg:base bg:surface0)]($style)'
+format = '[[($all_status$ahead_behind )](fg:text bg:surface0)]($style)'
 
 [nodejs]
 symbol = ""
